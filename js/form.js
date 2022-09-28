@@ -11,6 +11,21 @@ function enviar() {
     nome.value = ""
     email.value = ""
     mensagem.value = ""
+
+    
+}
+
+function modoEscuro() {
+    const botao = document.querySelector("#flexSwitchCheckDefault")
+
+    if(botao.checked){
+        document.body.style.backgroundColor = '#202020'
+        document.body.style.color = '#fff'
+    }
+    else{
+        document.body.style.backgroundColor = '#fff'
+        document.body.style.color = '#000'
+    }
 }
 
     
