@@ -21,8 +21,9 @@ main img {
 }
 
 .bi-check-circle {
-    font-size: 30px;
+    font-size: 40px;
     margin-left: 100px;
+    color: #156aa6;
 }
 
 main h3 {
@@ -33,9 +34,26 @@ main h3 {
     margin-top: 30px;
 }
 
+.textos h3 {
+    font-size: 40px;
+    color: #35404e;
+}
+
 .textos h6 {
-    text-align: left;
     margin-bottom: 30px;
+}
+
+#venda1 {
+    margin-right: 40px;
+}
+
+#venda2 {
+    margin-right: 15px;
+}
+
+#venda3 {
+    text-align: left;
+    margin-left: 155px;
 }
 
 .col-6 h3 {
@@ -44,10 +62,6 @@ main h3 {
 
 .textos {
     margin-top: 200px;
-}
-
-.textos h6 {
-    text-align: center;
 }
 
 #container2 {
@@ -62,19 +76,23 @@ main h3 {
     margin-top: 30px;
 }
 
+#container2 h3 {
+    font-weight: bold;
+}
+
 .bi-arrow-return-right {
-    color: #ffcc00;
+    color: #156aa6;
     font-size: 30px;
 }
 
 .bi-star {
-    color: #ffcc00;
+    color: #156aa6;
     font-size: 30px;
 }
 
 .bi-lightning {
     font-size: 30px;
-    color: #ffcc00;
+    color: #156aa6;
 }
 
 .col-4 {
@@ -88,6 +106,10 @@ main h3 {
 
 .col-4 button {
     margin-top: 80px;
+}
+
+#botao1 {
+    margin-top: 110px;
 }
 
 .col-4 h2 {
