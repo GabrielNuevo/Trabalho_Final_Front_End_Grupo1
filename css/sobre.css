@@ -20,6 +20,7 @@
 }
 
 .imagemicone:hover {
+    position: relative;
     transform: scale(1.06);
 }
 
