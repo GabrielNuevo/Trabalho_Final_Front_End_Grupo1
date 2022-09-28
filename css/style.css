@@ -39,4 +39,8 @@ h6 {
     color: #FAFAFA;
 }
 
+li a:hover{
+    background-color: #BDBDBD;
+}
+
 
