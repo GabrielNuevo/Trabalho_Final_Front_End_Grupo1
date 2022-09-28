@@ -1,11 +1,37 @@
-.inicio, .somos {
+/* .inicio, .somos {
     height: 500 px;
     width: 100%;
     margin-top: 20px;
     text-align:left;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: #FAFAFA;
+}
+.icons {
+    color: #8BC34A;
+
 }
 
-.rowmeio {
-    height: 100px;
-
+h1 {
+    font-size: 60px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 40px;
+    
 }
+
+h5 {
+    color: #424242;
+}
+
+h6 {
+    color: #757575;
+}
+
+.teste {
+    font-family: 'Quicksand', sans-serif;
+}
+
+
