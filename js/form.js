@@ -1,7 +1,7 @@
 function enviar() {
-    const nome = document.querySelector("#form4Example1").value;
-    const email = document.querySelector("#form4Example2").value;
-    const mensagem = document.querySelector("#form4Example3").value;
+    const nome = document.querySelector("#form4Example1");
+    const email = document.querySelector("#form4Example2");
+    const mensagem = document.querySelector("#form4Example3");
 
     if(nome.value == "" || email.value == "" || mensagem.value == "") {
         alert("Preencha todos os campos antes de enviar!")
@@ -12,3 +12,5 @@ function enviar() {
     email.value = ""
     mensagem.value = ""
 }
+
+    
