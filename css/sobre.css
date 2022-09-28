@@ -4,16 +4,23 @@
 
 .caixa-equipe {
     text-align: center;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 10px;
+    padding-top: 20px;
+    box-shadow: 1px 1px 5px #cdcdcd;
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+    border: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .icone{
     transition: 0.17s ease-in-out;
 }
 
-.icone:hover {
-     width: 210px;
+.imagemicone:hover {
+    transform: scale(1.06);
 }
 
 .nomes {
@@ -22,10 +29,27 @@
     transition: 0.17s ease-in-out;
 }
 
-.nomes:hover {
-    font-size: 18px;
-}
-
 main {
     margin-top: 70px;
+}
+
+.azulotter {
+    color: #003988;
+}
+
+.linhapreta {
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+.main {
+    margin-bottom: 60px;
+}
+
+.descricao {
+    display: flex;
+}
+
+.imagemicone {
+    transition: 0.17s ease-in-out;
 }
