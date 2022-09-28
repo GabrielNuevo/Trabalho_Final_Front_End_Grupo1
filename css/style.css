@@ -44,3 +44,29 @@ li a:hover{
 }
 
 
+.servicos{
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+}
+
+.sobrenos{
+    text-align: left;
+}
+
+a{
+    text-decoration:none;
+    display: block;
+}
+
+p a:hover{
+    background-color: blue;
+}
+
+
+li a:hover{
+    background-color: brown;
+}
+
