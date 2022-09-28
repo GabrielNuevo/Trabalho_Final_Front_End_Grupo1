@@ -42,31 +42,11 @@ h6 {
 li a:hover{
     background-color: #BDBDBD;
 }
-
-
-.servicos{
-    text-align: center;
-}
-
-.links{
-    text-align: center;
-}
-
-.sobrenos{
-    text-align: left;
-}
-
 a{
     text-decoration:none;
     display: block;
 }
 
 p a:hover{
-    background-color: blue;
+    background-color:#BDBDBD;
 }
-
-
-li a:hover{
-    background-color: brown;
-}
-
