@@ -154,7 +154,8 @@ p {
     top: 0;    
     position: fixed;
     width: 100%; 
-    background-color: #FAFAFA;    
+    background-color: #FAFAFA;
+    box-shadow: 0px 0.5px 10px lightgray;
 }
 
 .imagem {
@@ -187,5 +188,7 @@ p {
     padding-top: 50px;
     padding-bottom: 70px; 
            
-}
 
+.footerbackground {
+    background-color: #e3e3e3;
+}
