@@ -106,14 +106,24 @@ main h3 {
 
 #botao1 {
     margin-top: 80px;
+    background-color: #003988;
+    border: none;
 }
 
 #botao2 {
     margin-top: 50px;
+    background-color: #003988;
+    border: none;
 }
 
 #botao3 {
     margin-top: 50px;
+    background-color: #003988;
+    border: none;
+}
+
+#botao1:hover, #botao2:hover, #botao3:hover {
+    background-color: #156aa6;
 }
 
 .col-4 h2 {
