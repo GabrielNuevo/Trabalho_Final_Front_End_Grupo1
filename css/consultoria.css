@@ -26,18 +26,35 @@ main img {
 }
 
 .bi-check-circle {
-    font-size: 30px;
+    font-size: 40px;
     margin-left: 100px;
+    color: #156aa6;
 }
 
 main h3 {
     margin-left: 10px;
 }
 
+.textos h3 {
+
+}
+
 .textos h6 {
     text-align: center;
     margin-bottom: 30px;
     margin-left: 30px;
+}
+
+#venda1 {
+    margin-left: 70px;
+}
+
+#venda2 {
+    margin-left: 80px;
+}
+
+#venda3 {
+    margin-left: 40px;
 }
 
 .col-6 h3 {
@@ -48,31 +65,21 @@ main h3 {
     margin-top: 200px;
 }
 
+.textos h3 {
+    color: #35404e;
+    font-size: 40px;
+}
+
 #container2 {
     margin-bottom: 100px;
 }
 
 #container2 h1 {
-    margin-bottom: 50px;
+    color: #003988;
 }
 
 #container2 h2 {
     margin-top: 30px;
-}
-
-.bi-arrow-return-right {
-    color: #ffcc00;
-    font-size: 30px;
-}
-
-.bi-star {
-    color: #ffcc00;
-    font-size: 30px;
-}
-
-.bi-lightning {
-    font-size: 30px;
-    color: #ffcc00;
 }
 
 .col-4 {
