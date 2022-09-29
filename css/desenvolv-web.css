@@ -96,14 +96,30 @@ main h6 {
     margin: 0px 5px;
 }
 
-.col-4 button {
-    margin-top: 80px;
+.col-4 h2 {
+    margin-bottom: 25px;
 }
 
 #botao1 {
-    margin-top: 110px;
+    margin-top: 80px;
 }
 
-.col-4 h2 {
-    margin-bottom: 25px;
+#botao2 {
+    margin-top: 50px;
+}
+
+#botao3 {
+    margin-top: 50px;
+}
+
+.bi-arrow-return-right::before {
+    margin-top: 30px;
+}
+
+.bi-star::before {
+    margin-top: 30px;
+}
+
+.bi-lightning::before {
+    margin-top: 30px;
 }
