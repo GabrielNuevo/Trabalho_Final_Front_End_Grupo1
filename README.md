@@ -1,4 +1,4 @@
-## Projeto final Frontend Essencial
+## Projeto final Front-end Essencial
 Projeto da disciplina da Residência em TIC | Serratec
 
 ![Badge Concluída](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
