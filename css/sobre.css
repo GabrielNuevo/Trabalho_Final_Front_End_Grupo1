@@ -20,11 +20,6 @@
     transition: 0.17s ease-in-out;
 }
 
-.imagemicone:hover {
-    position: relative;
-    transform: scale(1.06);
-}
-
 .nomes {
     font-weight: bold;
     margin-bottom: 7px;
@@ -54,6 +49,12 @@ main {
 
 .imagemicone {
     transition: 0.17s ease-in-out;
+}
+
+.imagemicone:hover {
+    position: relative;
+    transform: scale(1.06);
+    z-index: auto;
 }
 
 @media all and (max-width: 700px) {
@@ -104,4 +105,13 @@ main {
     .bp-margem {
         margin-bottom: 30px;
     }
+}
+
+@media (min-wdith: 696px) {
+
+}
+
+header {
+    position: fixed;
+    z-index: 1;
 }
