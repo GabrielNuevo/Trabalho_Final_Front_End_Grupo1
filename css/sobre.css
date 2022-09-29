@@ -88,3 +88,20 @@ main {
         margin-right: 21%;
     }
 }
+
+.margemrow {
+    margin-top: 60px;
+}
+
+.bp-margem {
+    margin-top: 40px;
+}
+
+@media (max-width: 695px) {
+    .margemrow {
+        margin-top: 0px;
+    }
+    .bp-margem {
+        margin-bottom: 30px;
+    }
+}
