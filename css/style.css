@@ -75,6 +75,7 @@ p a:hover{
 p {    
     text-align: 8px;
     font-size: 20px;
+    margin-right: 20px;
     
 }
 
@@ -167,8 +168,8 @@ p {
 }
 
 .time {    
-    margin-right: 10px;
-    
+    text-align: center;
+    margin-top: 40px;
 }
 
 
