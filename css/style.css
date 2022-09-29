@@ -26,6 +26,7 @@ h3 {
 
 h5 {
     color: #424242;
+    text-align: center;
 }
 
 h6 {
@@ -72,8 +73,9 @@ p a:hover{
 }
 
 p {    
-    text-align: center;
+    text-align: 8px;
     font-size: 20px;
+    
 }
 
 .parte-do-meio {
@@ -151,7 +153,21 @@ p {
 }
 
 .imagem {
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
+.form-switch {
+    margin-top: 10px;
+    margin-right: 40px;
+}
+
+.escuro {    
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+
+.time {    
+    text-align: center;
+    
+}
 
