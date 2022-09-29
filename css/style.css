@@ -10,7 +10,8 @@ body {
 
 h1 {
     font-size: 60px;
-    line-height: 40px;    
+    line-height: 55px;  
+    margin-bottom: 0;  
 }
 
 h2 {
