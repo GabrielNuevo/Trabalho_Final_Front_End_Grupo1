@@ -7,7 +7,7 @@
     padding: 10px;
     padding-top: 20px;
     box-shadow: 1px 1px 5px #cdcdcd;
-    height: 350px;
+    height: 360px;
     width: 300px;
     border-radius: 20px;
     border: 30px;
@@ -16,6 +16,7 @@
 }
 
 .icone{
+    padding: 3px;
     transition: 0.17s ease-in-out;
 }
 
