@@ -72,6 +72,9 @@ main h3 {
 
 #container2 h1 {
     color: #003988;
+    font-weight: 600;
+    font-size: 50px;
+    text-align: center;
 }
 
 #container2 h2 {
