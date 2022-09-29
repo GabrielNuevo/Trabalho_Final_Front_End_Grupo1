@@ -80,13 +80,15 @@ p {
 }
 
 .parte-do-meio {
+    margin:auto;
+    justify-content: center;
     text-align: center;
     box-shadow: 5px 5px 5px;
     box-shadow: 1px 1px 5px lightslategray;
     height: 400px;
     width: 350px;    
     border-radius: 20px;
-    margin: 0px 140px;
+    margin-top: 30px;
 }
 
 .parte-do-meio:hover {
@@ -96,12 +98,15 @@ p {
 }
 
 .lateral {
+    margin: auto;
+    justify-content: center;
     text-align: center;
+    box-shadow: 5px 5px 5px;
     box-shadow: 1px 1px 5px lightslategray;
     height: 400px;
     width: 350px;    
     border-radius: 20px;
-    margin: 0px 5px; 
+    margin-top: 30px;
 }
 
 .lateral:hover {
@@ -112,13 +117,14 @@ p {
 }
 
 .esquerda {
+    margin:auto;
+    justify-content: center;
     text-align: center;
     box-shadow: 5px 5px 5px;
     box-shadow: 1px 1px 5px lightslategray;
     height: 400px;
     width: 350px;    
     border-radius: 20px;
-    margin: 0px 140px;
     margin-top: 30px;
 }
 
@@ -130,13 +136,14 @@ p {
 
 
 .direita {
+    margin: auto;
+    justify-content: center;
     text-align: center;
     box-shadow: 5px 5px 5px;
     box-shadow: 1px 1px 5px lightslategray;
     height: 400px;
     width: 350px;    
     border-radius: 20px;
-    margin: 0px 5px;
     margin-top: 30px;
 }
 
@@ -170,6 +177,19 @@ p {
 .time {    
     text-align: center;
     margin-top: 40px;
+}
+
+.parallax {
+    background-image: url(../img/contato2.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-attachment: fixed;
+    color: black;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 70px; 
+           
 }
 
 
